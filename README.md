@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GenericHuman123
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Linux
-- 💞️ I’m not looking to colab yet
+- 💞️ Collabing with JRingold on the ronlinegames.com website
 - 📫 Contact me on discord Benfur #6969
 
 <!---
